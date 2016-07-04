@@ -43,5 +43,5 @@ while True: #the main game loop
             sys.exit()
 
     pygame.display.update()
-
+    fpsClock.tick(FPS)
 
