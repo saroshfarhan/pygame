@@ -3,7 +3,7 @@ from pygame.locals import *
 
 pygame.init()
 
-FPS = 30 #frames per second setting
+FPS = 29 #frames per second setting
 fpsClock = pygame.time.Clock()
 
 # set up the window
