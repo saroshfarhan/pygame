@@ -113,7 +113,7 @@ def main():  # main function of he program
                         # show the fully unrevealed board for 2 seconds.
                         drawBoard(mainBoard, revealedBoxes)
                         pygame.display.update()
-                        pygame.time.wait(2000)
+                        pygame.time.wait(5000)
 
                         # replay the start game animation.
                         startGameAnimation(mainBoard)
